@@ -1,1 +1,9 @@
-
+public class StatsCalculator {
+  public static void main(String[] args) {
+    private double[] values;
+    
+  public statsCalculator(){
+    for(int i = 0; i < values.length; i++){
+      values[i] == 0
+      
+    
